@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/personalpract/leetcodeList/DP_ON_GRIDS/DP_ON_GRIDS.iml" filepath="$PROJECT_DIR$/personalpract/leetcodeList/DP_ON_GRIDS/DP_ON_GRIDS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dynamic_Programming.iml" filepath="$PROJECT_DIR$/Dynamic_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MCM_DP/MCM_DP.iml" filepath="$PROJECT_DIR$/MCM_DP/MCM_DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dpOnLIS/dpOnLIS.iml" filepath="$PROJECT_DIR$/dpOnLIS/dpOnLIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dpOnStocks/dpOnStocks.iml" filepath="$PROJECT_DIR$/dpOnStocks/dpOnStocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dpOnStrings/dpOnStrings.iml" filepath="$PROJECT_DIR$/dpOnStrings/dpOnStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dpOnSubSequencesOrSubSets/dpOnSubSequencesOrSubSets.iml" filepath="$PROJECT_DIR$/dpOnSubSequencesOrSubSets/dpOnSubSequencesOrSubSets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personalpract/leetcodeList/leetcodeList.iml" filepath="$PROJECT_DIR$/personalpract/leetcodeList/leetcodeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personalpract/leetcodeList/oneD_Dp/oneD_Dp.iml" filepath="$PROJECT_DIR$/personalpract/leetcodeList/oneD_Dp/oneD_Dp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personalpract/personalpract.iml" filepath="$PROJECT_DIR$/personalpract/personalpract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personalpract/thirtydaysDSA/thirtydaysDSA.iml" filepath="$PROJECT_DIR$/personalpract/thirtydaysDSA/thirtydaysDSA.iml" />
     </modules>
   </component>
 </project>
